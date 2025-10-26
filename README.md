@@ -1,5 +1,3 @@
-README.txt
-
 # Jorenz Melo Balbuena Studio Production, Inc.
 Website Overview
 
