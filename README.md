@@ -1,37 +1,103 @@
 # Jorenz Melo Balbuena Studio Production, Inc.
-Website Overview
 
-This project is a full-featured HTML-based website for Jorenz Melo Balbuena Studio Production, Inc.,
-designed to showcase the company’s services, mission, projects, and community involvement.
+<div align="center">
 
---------------------------------------------
-MAIN FEATURES
---------------------------------------------
-🏠 HOME: Hero banner, company tagline, statistics, featured projects
-👤 ABOUT: Founder profile, Mission, and Vision
-💝 GET INVOLVED: Donation, Volunteer, and Partnership application
-🖼️ GALLERY: Admin-managed media projects
-📰 NEWS: Latest updates
-👥 JOIN US: Recruitment and application portal
-🤝 PARTNERS: Partner listings and benefits
-🎂 BIRTHDAY RAFFLE: Interactive raffle system
-🔐 ADMIN PORTAL: Content management access
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
---------------------------------------------
-TECHNOLOGIES USED
---------------------------------------------
-- HTML5
-- Tailwind CSS (via CDN)
-- Vanilla JavaScript
-- Responsive Design
-- Unsplash for free stock images
+</div>
 
---------------------------------------------
-CONTACT
---------------------------------------------
-Company: Jorenz Melo Balbuena Studio Production, Inc.
-Email: jorenzmelo21@gmail.com
-Office Hours: Monday–Saturday, 8AM–7PM | Sunday, 7AM–10PM
-Location: Calatagan, Batangas, Philippines
+## 📖 Overview
 
-© 2025 Jorenz Melo Balbuena Studio Production, Inc. All rights reserved.
+A modern web application built with Tailwind CSS, Modern CSS, Responsive Design. Features responsive design and interactive elements for an enhanced user experience.
+
+## ✨ Features
+
+- 🚀 Modern and responsive design
+- ⚡ Fast loading and optimized performance
+- 🎨 Beautiful and intuitive user interface
+- 📱 Mobile-friendly responsive layout
+- 🔧 Clean and maintainable code structure
+- 💫 Media Support
+- 💫 Forms
+- 💫 Local Storage
+
+## 🛠️ Technologies Used
+
+- **Tailwind CSS**
+- **Modern CSS**
+- **Responsive Design**
+- **JavaScript**
+- **Interactive Elements**
+- **Media Elements**
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Modern web browser
+- Text editor or IDE
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jorenzm.balbuena/jorenz-melo-balbuena-studio-production,-inc..git
+   ```
+
+2. **Navigate to project directory**
+   ```bash
+   cd jorenz-melo-balbuena-studio-production,-inc.
+   ```
+
+3. **Open in browser**
+   Open `index.html` in your web browser
+
+## 💡 Usage
+
+1. Open the application in your web browser
+2. Explore the features and functionality
+3. Customize as needed for your requirements
+
+## 📁 Project Structure
+
+```
+jorenz-melo-balbuena-studio-production,-inc./
+├── index.html          # Main HTML file
+├── styles.css          # Enhanced CSS styles
+├── script.js           # JavaScript functionality
+├── README.md           # Project documentation
+└── assets/             # Images and other assets
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**JORENZ M. BALBUENA**
+
+- GitHub: [@jorenzm.balbuena](https://github.com/jorenzm.balbuena)
+- LinkedIn: [JORENZ M. BALBUENA](https://linkedin.com/in/jorenzm.balbuena)
+
+---
+
+<div align="center">
+
+### 🌟 Show your support
+
+Give a ⭐️ if this project helped you!
+
+**Made with ❤️ by JORENZ M. BALBUENA**
+
+</div>
