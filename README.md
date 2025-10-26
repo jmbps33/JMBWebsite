@@ -1,27 +1,39 @@
-# Jorenz Melo Balbuena Studio Production, Inc. Website
+README.txt
 
-This project is a responsive website for **Jorenz Melo Balbuena Studio Production, Inc.**, built with **HTML**, **Tailwind CSS**, and **JavaScript**.
+# Jorenz Melo Balbuena Studio Production, Inc.
+Website Overview
 
-## 📄 Features
-- Multi-section layout (Home, About, Get Involved, Gallery, News, Join Us, Partners, Admin Portal)
-- Partnership and Raffle registration forms
-- Dynamic modals and section navigation
-- Search functionality
-- Real-time PH time clock
-- Responsive and mobile-friendly design
-- Integrated Tailwind CSS CDN
+This project is a full-featured HTML-based website for Jorenz Melo Balbuena Studio Production, Inc.,
+designed to showcase the company’s services, mission, projects, and community involvement.
 
-## ⚙️ Setup Instructions
-1. Open the HTML file `online_viewer_net (49).htm` in your browser.
-2. Ensure internet access for Tailwind CDN and image links.
-3. The `styles.css` and `scripts.js` files should be placed in the same directory as the HTML file.
-4. Update file paths in `<link>` and `<script>` tags if necessary.
+--------------------------------------------
+MAIN FEATURES
+--------------------------------------------
+🏠 HOME: Hero banner, company tagline, statistics, featured projects
+👤 ABOUT: Founder profile, Mission, and Vision
+💝 GET INVOLVED: Donation, Volunteer, and Partnership application
+🖼️ GALLERY: Admin-managed media projects
+📰 NEWS: Latest updates
+👥 JOIN US: Recruitment and application portal
+🤝 PARTNERS: Partner listings and benefits
+🎂 BIRTHDAY RAFFLE: Interactive raffle system
+🔐 ADMIN PORTAL: Content management access
 
-## 🧩 Files Included
-- `styles.css` → Custom animations, modals, and UI adjustments.
-- `scripts.js` → Handles interactivity, search, forms, and modals.
-- `README.md` → Project documentation.
+--------------------------------------------
+TECHNOLOGIES USED
+--------------------------------------------
+- HTML5
+- Tailwind CSS (via CDN)
+- Vanilla JavaScript
+- Responsive Design
+- Unsplash for free stock images
 
-## 👨‍💻 Author
-**Jorenz Melo Balbuena**  
-Founder & CEO, JMB Studio Production, Inc.
+--------------------------------------------
+CONTACT
+--------------------------------------------
+Company: Jorenz Melo Balbuena Studio Production, Inc.
+Email: jorenzmelo21@gmail.com
+Office Hours: Monday–Saturday, 8AM–7PM | Sunday, 7AM–10PM
+Location: Calatagan, Batangas, Philippines
+
+© 2025 Jorenz Melo Balbuena Studio Production, Inc. All rights reserved.
